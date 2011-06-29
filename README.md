@@ -93,6 +93,13 @@ That's all we need to support French in our application.  When you compile it yo
 
 Your application can support as many languages you want.  You can send your properties files to a real localization company and you won't have to live with my horrible French.  
 
+
+Debugging through Eclipse
+--------------------------------------
+
+See [Spiffy UI's GWT Dev Mode page](http://www.spiffyui.org/#!hostedMode) for more information.
+
+
 License
 --------------------------------------
 
